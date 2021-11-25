@@ -1,1 +1,1 @@
-web: npm start 
+worker: canned -p 5000 ./server
